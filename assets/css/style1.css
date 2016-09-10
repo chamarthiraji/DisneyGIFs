@@ -1,0 +1,32 @@
+#character_buttons{
+	float:right;
+}
+#gifimages_view{
+
+}
+h1,h3{
+	text-align: center;
+	color:black;
+	font-weight: bolder;
+}
+body{
+	background: url(../images/disney.jpg);
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	font-family: 'Oswald', serif;
+	font-size: 20px;
+	
+     
+}
+img{
+	height:250px;
+	
+}
+.characters{
+	color:black;
+}
+#submit_button{
+	font-weight: bold;
+}
